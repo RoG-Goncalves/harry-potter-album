@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Harry Potter Album
+It's a Website for displaying Harry Potter's characters and their infos gathered from a public API
 
 ## Available Scripts
 
