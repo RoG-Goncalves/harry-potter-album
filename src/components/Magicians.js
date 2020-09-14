@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Magician from './Magician';
 import HouseSelector from './HouseSelector';
-import Spinner from './Spinner'
 import css from './magician.module.css'
 import Loader from './Loader';
 import loader from '../loading.gif'
